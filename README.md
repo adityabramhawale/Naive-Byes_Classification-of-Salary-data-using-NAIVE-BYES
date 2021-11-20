@@ -1,0 +1,1 @@
+# Naive-Byes_Classification-of-Salary-data-using-NAIVE-BYES
